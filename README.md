@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=djdjdallas&label=Profile%20views&color=0e75b6&style=flat" alt="djdjdallas" /> </p>
 
-- 🌱 I’m currently learning **Node.Js**
+- 🌱 I’m currently learning **TensorFlow.js & Node.Js**
 
 - 👯 I’m looking to collaborate on **open source projects & to collaborate with community members.**
 
